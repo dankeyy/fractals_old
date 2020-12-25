@@ -1,2 +1,6 @@
 # Mandelbrot-Set
-my implementation of the mandelbrot set
+My implementation for the mandelbrot set.
+
+sample output:
+
+![pic](output.png)

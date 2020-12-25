@@ -1,5 +1,5 @@
 # Mandelbrot-Set
-My implementation for the mandelbrot set.
+my attempt at visualizing the mandelbrot set
 
 sample output:
 
